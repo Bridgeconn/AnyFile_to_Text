@@ -20,10 +20,10 @@ Requires a working 7 JRE for it to work. Download before run script for [JRE Dow
 3. Output will be current folder where Script will be present
 
 ### Make file executable with below command from console/ Terminal
-$ chmod +x txt_to_tab.rb
+$ chmod +x doc_to_text.rb
 
 ### Please check example file with below command:
-$ ./txt_to_tab.rb text-file.txt
+$ ./doc_to_text.rb
 
 Developed by Uday Kumar uday.kumar@bridgeconn.com [Bridge Connectivity Solutions](http://bridgeconn.com/)
 
