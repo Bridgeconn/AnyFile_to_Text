@@ -11,9 +11,8 @@ This script convert any file type to .txt format.
 
 ## DEPENDENCIES
 Requires a working 7 JRE for it to work. Download before run script for [JRE Download Link](http://openjdk.java.net/install/)
-
-### you can run from terminal in Debian, Ubuntu, etc. $ sudo apt-get install openjdk-7-jre
-### Fedora, Oracle Linux, Red Hat Enterprise Linux, etc. $ su -c "yum install java-1.7.0-openjdk"
+1. you can run from terminal in Debian, Ubuntu, etc. $ sudo apt-get install openjdk-7-jre
+2. Fedora, Oracle Linux, Red Hat Enterprise Linux, etc. $ su -c "yum install java-1.7.0-openjdk"
 
 ### Please follow below steps for convert file
 1. Put you file in folder.
